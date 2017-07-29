@@ -1,7 +1,5 @@
-var theTotal = 0;
+var num = 0;
 $('#btn').click(function(){
-   theTotal = Number(theTotal) + 1;
-    $('.print-data').text(theTotal);        
+   num = Number(num) + 1;
+    $('.print-data>h2').text(num);
 });
-
-$('.print-data').text(theTotal);        
