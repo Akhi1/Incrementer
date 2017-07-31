@@ -47,10 +47,8 @@ button:active{
 	font-size: 24px;
 	border: 2px solid #000;
 }
-.print-data h2{
+.print-data h1{
 	font-family: 'Orbitron', sans-serif;
-	font-size: 48px;
 	font-weight: bolder;
 	text-align: center;
-	
 }
