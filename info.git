@@ -1,0 +1,2 @@
+heroku git:remote -a incrementer
+git push heroku master
